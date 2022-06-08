@@ -14,8 +14,8 @@ global.gopay = '082275576880'
 
 //=============『 Info Bot 』=================//
 global.namebot = '© IRJA'
-global.gc = 'https://chat.whatsapp.com/JMv6TBnYGCe7NngMhLdGmb'
-global.web = 'https://bit.ly/3GMoSW7' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = 'https://chat.whatsapp.com/Fd92L258maQ6lWjIua6Djq'
+global.web = 'https://instagram.com/irja_official' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 5k'
 
 //=======『 Tampilan Dan Lainnya 』============//
