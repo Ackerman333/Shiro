@@ -20,7 +20,7 @@ global.price1 = 'Permanen 5k'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/2b376a3a16da00b2439e6.jpg' //ini juga ganti 
+global.fotonya2 = 'https://telegra.ph/file/31232b608ac56ff91964c.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = '3599828239' //ganti jadi apikey lu kalau expired
 global.wm = '© IRJA'
