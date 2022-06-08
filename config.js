@@ -16,7 +16,7 @@ global.gopay = '082275576880'
 global.namebot = '© IRJA'
 global.gc = 'https://chat.whatsapp.com/JMv6TBnYGCe7NngMhLdGmb'
 global.web = 'https://bit.ly/3GMoSW7' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
+global.price1 = 'Permanen 5k'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
@@ -26,7 +26,7 @@ global.zenzkey = '3599828239' //ganti jadi apikey lu kalau expired
 global.wm = '© IRJA'
 global.watermark = wm
 global.wm2 = '「 © IRJA 」'
-global.wm3 = '⫹⫺ ᴀ ɴ ᴅ ϟ ツ'
+global.wm3 = '© IRJA'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/2b376a3a16da00b2439e6.jpg'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '2022'
-global.author = '© ᴀ ɴ ᴅ ϟ ツ'
+global.packname = '© IRJA'
+global.author = 'IG : irja_official'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
