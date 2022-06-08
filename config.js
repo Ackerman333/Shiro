@@ -1,19 +1,19 @@
 //=============『 Utama 』================== //
-global.owner = ['6282148864989'] 
+global.owner = ['6282275576880'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴀ ɴ ᴅ ϟ ツ'
-global.numberowner = '6282148864989'
-global.instagram = 'https://instagram.com/renfunix'
-global.github = 'https://github.com/RenFunix'
-global.dana = '082148864989'
-global.pulsa = '082148864989'
-global.gopay = '082148864989'
+global.nameowner = 'IRJA'
+global.numberowner = '6282275576880'
+global.instagram = 'https://instagram.com/irja_official'
+global.github = 'http://bit.ly/wa_irja'
+global.dana = '082275576880'
+global.pulsa = '082275576880'
+global.gopay = '082275576880'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ShiroBot-MD'
+global.namebot = '© IRJA'
 global.gc = 'https://chat.whatsapp.com/JMv6TBnYGCe7NngMhLdGmb'
 global.web = 'https://bit.ly/3GMoSW7' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
